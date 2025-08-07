@@ -18,7 +18,8 @@ The main objective: eat apples, grow longer, and avoid collisions!
 │   └── utils.py        # Utility functions (load images, random positions)
 ├── main.py             # Game loop and orchestration
 ├── README.md           # (You are here)
-└── .gitignore```
+└── .gitignore
+```
 
 ## How the Game Works
 
