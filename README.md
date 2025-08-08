@@ -12,6 +12,7 @@ The main objective: eat apples, grow longer, and avoid collisions!
 │   └── snake_trophy.png
 ├── src/
 │   ├── apple.py        # Apple management and rendering
+│   ├── config.py       # Game configuration (window/grid size, etc.)
 │   ├── hud.py          # Score, HUD and trophy display
 │   ├── map.py          # Grid and background drawing
 │   ├── player.py       # Snake logic and movement
